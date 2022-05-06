@@ -1,0 +1,1000 @@
+id,artist_id,album_title,genre,year_of_pub,num_of_tracks,num_of_sales,rolling_stone_critic,mtv_critic,music_maniac_critic
+1,1767,Call me Cat Moneyless That Doggies,Folk,2006,11,905193,4,1.5,3
+2,23548,Down Mare,Metal,2014,7,969122,3,4,5
+3,17822,Embarrassed Hungry,Latino,2000,11,522095,2.5,1,2
+4,19565,Standard Immediate Engineer Slovakia,Pop,2017,4,610116,1.5,2,4
+5,24941,Decent Distance Georgian,Black Metal,2010,8,151111,4.5,2.5,1
+6,1988,Tall,Progressive,2018,15,537615,4.5,1.5,2
+7,43032,Steel Patrol Officer The Queen Panda Pleasant,Pop-Rock,2006,5,254802,5,2,2.5
+8,648,kneel Llama Hanger Uzbekistan Relax,Retro,2005,3,488696,0.5,5,4.5
+9,19441,Lovers Totally Manager,Latino,2008,10,239081,1.5,2,2.5
+10,13687,Rock,Western,2002,14,531099,3.5,1,3.5
+11,42331,Boring Tetum Living On A Prayer Bandicoot Malay,K-Pop,2017,14,164412,1.5,3.5,3
+12,5630,Crying for the Of Love Zeus,Indie,2008,4,395487,2,5,4
+13,40571,Bonjour Damoiselle Belle,Lounge,2014,12,229540,0.5,1,4.5
+14,11023,Gabby Orange Bird,J-Rock,2009,2,565346,2.5,1.5,1.5
+15,5242,Information Miami Dream France Blue,Western,2006,4,229870,1.5,0.5,2
+16,19825,Permit Robbers,Hard Rock,2001,13,237665,4.5,1.5,2
+17,48831,Pies Face Hanger Panda,Unplugged,2009,5,551170,0.5,3,1
+18,23087,Of Loves Flippin,J-Rock,2017,6,327052,4.5,2.5,1
+19,26338,Barbie Boring,Pop-Rock,2013,15,349194,3.5,1.5,4.5
+20,10563,Dental Hygienist Don't Talk to,Jazz,2003,13,539238,5,2,5
+21,30707,To my Beloved And Lucky Desperate,Trap,2003,6,172556,2.5,4,1
+22,1767,Practical,K-Pop,2015,4,466981,4.5,4,3
+23,23548,Life Of A Queen,Retro,2009,15,165557,2,3.5,1.5
+24,17822,Saudi Audi,Lounge,2016,6,833311,5,4.5,0.5
+25,19565,Entertaining,Pop,2011,7,430186,4.5,2.5,4
+26,24941,Turkish Georgian,Ambient,2012,10,177322,2,4.5,4.5
+27,1988,Morgan The Delightful Heroes of Wales I'll Former Daihatsu,Rap,2011,2,444811,3,4.5,3
+28,43032,Confident,Lounge,2011,6,765393,4,2,4.5
+29,648,Ferret Past Good,Heavy Metal,2015,14,564423,4.5,3.5,1.5
+30,19441,Try Cadillac,Pop,2008,6,953494,1.5,4,0.5
+31,13687,Direful A Wild,Latino,2017,15,749968,2,1,3
+32,42331,Dancing Cow Of,Dance,2019,7,15211,3,0.5,0.5
+33,5630,Of Singapore Of Finding Weak,Retro,2015,10,498303,0.5,1,0.5
+34,40571,Gonna Bison Of Believe In the Sky,Alternative,2002,3,422751,4.5,5,4
+35,11023,Algerian Candy,Death Metal,2005,3,77769,5,1.5,2
+36,5242,Next to Matteo Reasonable Able Jamila,Trap,2014,12,547414,3.5,4.5,5
+37,19825,Entertaining Time,Death Metal,2007,3,583635,2.5,3.5,4
+38,48831,Ride I'm Brash,Pop,2019,9,981505,3,2,2.5
+39,23087,Latter Finding,Heavy Metal,2006,2,902314,4,4.5,5
+40,26338,RAM Trucks I used to,Live,2015,13,609209,1.5,4.5,3
+41,1767,RAM Trucks Eland Headless Chicken Useful,K-Pop,2002,8,494751,5,3.5,3.5
+42,23548,Matteo Noodles,Blues,2015,2,499069,3.5,2.5,3.5
+43,17822,Financial Latter,Compilation,2014,6,635575,3.5,4,3
+44,19565,Pharmacist Final Form,Gospel,2013,13,807633,3.5,5,4.5
+45,24941,Don't Forget the,Metal,2012,2,853478,3.5,2,1
+46,1988,Pies Sufficient Hare,Ambient,2012,7,222783,3.5,0.5,0.5
+47,43032,Song More,Country,2012,3,444808,4.5,3,0.5
+48,648,Interesting Pure Important Camel Adventure of the,Metal,2007,12,737881,5,5,1.5
+49,19441,Nice Federal Sandwiches Existing Southern,Jazz,2008,5,507873,2.5,5,2
+50,13687,Butter,Black Metal,2010,2,212345,0.5,4,4.5
+51,42331,Mister Sing My Asset Yellow,Pop,2002,12,916873,2.5,2,2.5
+52,5630,Ampelmann Hear Psychedelic For Us,Pop-Rock,2015,11,44603,3.5,2,0.5
+53,40571,Bertie Said Lion Music Shaggy,Deep House,2011,2,754243,2,3,4.5
+54,11023,Electrical Alan On a My Cause,Indie,2016,7,911157,3.5,4,0.5
+55,5242,That's My Ultra-Maximus Lamb,Black Metal,2015,11,980691,0.5,3.5,2
+56,19825,Jinyu,Blues,2010,14,268349,4,5,3.5
+57,48831,East Timor Educational,Ambient,2002,8,631337,1,4,5
+58,23087,Ride You Biker Beer,Hard Rock,2009,2,295464,3,5,2
+59,26338,Mathematician Behind Italian Sports,Pop,2013,9,894973,4,5,0.5
+60,10563,Terrible Bear In the Sky Able Jamila,Lounge,2012,5,977546,1.5,2,1.5
+61,30707,White Eat Drink and Be Merry,Pop,2008,6,340630,0.5,4.5,1.5
+62,1767,Garden,Trap,2000,3,959731,3.5,4,2.5
+63,23548,Inside My,Lounge,2013,15,193097,4.5,1,3
+64,17822,Eastern Tree Jordan,Pop,2003,9,332163,4,4,5
+65,19565,Rupert Incredible Practical Gentle Relax,Blues,2009,11,562963,4,4,4
+66,24941,Shy Estar,Brit-Pop,2000,9,848426,3.5,3.5,1
+67,1988,Obvious Listen Afraid So Intuitive Pakistan,Indie,2018,6,416729,3,3.5,3
+68,43032,Ambra Inside Out,Parody,2010,15,212667,0.5,2,2.5
+69,648,Falling Believe,Heavy Metal,2017,10,58206,4.5,3.5,3
+70,19441,Good Ugly Of Love,Parody,2018,6,589278,2.5,0.5,5
+71,13687,Guttural Gentle,Heavy Metal,2009,14,63276,2.5,2,1.5
+72,42331,Gazelle Smart Brown Effect Finding,J-Rock,2001,4,432911,2.5,3.5,3
+73,5630,Hanger Arrange Nepal,Western,2002,13,474724,0.5,2,2.5
+74,40571,Magic Hunted Elephant Guttural,Hard Rock,2002,2,440469,1.5,3.5,5
+75,11023,Maria Dance,J-Rock,2003,9,14429,3,4,5
+76,5242,Electrical Typical Hijazi Ferrari Flippin,Deep House,2019,4,76233,3.5,2,2
+77,19825,Additional,Compilation,2001,4,915656,0.5,4.5,3
+78,48831,Insurance Volvo Exciting,Indie,2018,2,186163,4,4,2.5
+79,23087,Bonjour Damoiselle Belle,Lounge,2013,12,320261,0.5,2,1.5
+80,26338,Don't Touch My Nove Millimetri,Western,2014,10,857842,5,1,3
+81,10563,Conscious Bless United Zeus Southern,Parody,2018,5,936676,4.5,2,1.5
+82,30707,Try Cadillac,Pop,2006,6,428405,1,1,1.5
+83,1767,Catch me,Techno,2004,2,997728,3,0.5,4
+84,23548,Just For,Progressive,2004,8,398061,0.5,5,2.5
+85,17822,Magical,Rock,2018,9,117401,1.5,0.5,2
+86,19565,I Ain't No Legs Mare,Gospel,2002,11,48249,4.5,3,4
+87,24941,Egypt Skoda Cool Spain,Indie,2019,9,417789,4,3.5,4
+88,1988,Leopard Stars Significant,Latino,2000,13,631861,4.5,4,2.5
+89,43032,Face Conscious,Techno,2004,9,386283,3.5,1,3
+90,648,Tutti i Frutti Successful,Pop-Rock,2006,11,605253,0.5,4.5,0.5
+91,19441,You Look Like Bertie Said,Punk,2018,3,706453,5,0.5,2
+92,13687,China,Punk,2015,10,527489,4,1,2
+93,42331,Human MINI Microwave FAW,Indie,2015,8,537953,3.5,5,1
+94,5630,Ferrari Next To Onesan,Techno,2011,6,300446,0.5,5,2.5
+95,40571,Incredible Driver Significant Bislama Moneyless,Jazz,2017,14,394339,1,3,0.5
+96,11023,Embarrassed Like Sadness,Death Metal,2009,11,999144,4.5,2,5
+97,5242,Trick Able Jamila,Indie,2017,12,613695,0.5,5,0.5
+98,19825,First Yesterday To Pure Indian,Punk,2006,2,999419,5,0.5,1
+99,48831,Form In Your Eyes,Gospel,2013,10,734481,1,2,1.5
+100,23087,Photographer,Rap,2000,8,477347,4,1.5,3.5
+101,26338,Nervous,Rap,2014,10,988447,2.5,2.5,2
+102,10563,Bonjour Damoiselle Belle,Lounge,2012,8,718639,2,2,4
+103,30707,Chinchilla,Boy Band,2001,7,275814,5,5,5
+104,1767,Candy Chevrolet For my Elisa,Dance,2013,8,289137,4.5,3.5,4
+105,23548,Human MINI Microwave FAW,Indie,2004,2,488877,0.5,2.5,1.5
+106,17822,That's My Ultra-Maximus Lamb,Black Metal,2011,3,162022,1,2,3
+107,19565,Goblin Arise From Italy,Rap,2007,15,194938,3.5,2,4.5
+108,24941,Medical Israel Don't Forget the So Sad or So Mad Detailed,Pop,2015,10,679913,1,0.5,1.5
+109,1988,Sword My Spread Asleep Under the,Trap,2013,3,176860,4.5,5,5
+110,43032,Forget It,Country,2003,4,241502,1,3.5,2.5
+111,648,Inside the Riding,Hard Rock,2011,3,305868,5,4.5,4.5
+112,19441,Falling Tamil Available Mindless,Jazz,2001,3,813387,4,4.5,3.5
+113,13687,Believe Tiny So Sad or So Mad Minangkabau Annoying,Dance,2000,10,139331,3,3.5,2.5
+114,42331,Soups In the Sky Sorry,Black Metal,2005,2,22391,4,4.5,2
+115,5630,Cat State of Tiny Urdu,Rock,2015,12,259552,5,0.5,4
+116,40571,Legs Gentle Odd,Blues,2008,12,55627,5,1.5,1.5
+117,11023,Agent Miami Dream,K-Pop,2012,15,759480,0.5,1,5
+118,5242,Reporter,Rap,2004,14,950221,0.5,4.5,2.5
+119,19825,Flower Discovery Desperate Kicking your,Dance,2005,3,110578,1,5,0.5
+120,48831,Just for Killer Lahnda,Brit-Pop,2003,3,962747,5,2,0.5
+121,23087,Medical Sonographer Just for,Latino,2015,15,184751,3.5,1,1.5
+122,26338,Catch me,Black Metal,2011,4,315591,1,4,2.5
+123,10563,Come,Pop,2011,8,225950,3.5,1,3
+124,30707,Benito Sick Brown Better Off Mind,Rap,2003,2,938179,2,3.5,2.5
+125,1767,Elegant As Arm Expelli Armus Daihatsu,Punk,2011,2,203325,2.5,0.5,3
+126,23548,Gazelle Shock,Deep House,2013,9,752129,5,0.5,1.5
+127,17822,Candy Elisa My Love,Dance,2010,13,791036,4,4.5,3
+128,19565,Alive Matteo Truck Fireman Computer Systems,Indietronica,2013,9,920245,2,3,1.5
+129,24941,Administrative Better have Majestic Search,Western,2014,6,123504,1.5,1,4.5
+130,1988,Candy Elisa My Love,Dance,2015,5,506667,1,1.5,4.5
+131,43032,Obvious The Baddest Female,Latino,2003,9,816453,5,1,4
+132,648,Lover Barbie Of Rock,Rock,2014,6,638801,0.5,1.5,3.5
+133,19441,Bonjour Damoiselle Belle,Lounge,2001,14,424598,4.5,2.5,4
+134,13687,Environmental My Life,Black Metal,2003,7,552438,5,5,4
+135,42331,Sufficient Please,Boy Band,2010,2,230264,3.5,5,2
+136,5630,Face Goblin Belligerent,Indie,2016,14,719253,2.5,2,1
+137,40571,Afraid Cute New Face,Pop,2007,5,769089,1.5,4,2.5
+138,11023,Make it,Indietronica,2013,12,347163,2.5,1.5,5
+139,5242,Preschool Teacher,Dance,2011,11,117350,1,4,0.5
+140,19825,Come On Is as,Compilation,2011,4,12676,2,5,1.5
+141,48831,Afraid Lucky Minnie Moon M.E.N.T.A.L Miss Johnson,Rock,2008,15,458768,5,1.5,3.5
+142,23087,China Incredible Lose Control Story of DJ Mix,Parody,2016,5,295961,5,5,2.5
+143,26338,Squirrel,Punk,2017,12,763926,3.5,1,4.5
+144,10563,Luxembourg Believe The Blue Call me Able Jamila,Latino,2016,7,169604,1.5,4.5,3.5
+145,30707,House RULEZ,Deep House,2010,15,8062,1,2,4
+146,1767,Rare Sister Of Thunder Falling in Love with,Rap,2014,9,83317,2.5,1,3
+147,23548,Heart Shame Inside My Brash,Rock,2017,12,217759,4.5,1.5,2
+148,17822,Crying for the,Latino,2005,12,745672,0.5,2,4.5
+149,19565,Of Ampelmann,Metal,2006,15,833462,2,4.5,4.5
+150,24941,TOP In The Sky Of Death,K-Pop,2010,9,888188,2.5,3.5,1
+151,1988,Marigold The Manigold Hear Enemy Uzbek Dramatic,Rock,2015,7,853954,3.5,3.5,3
+152,43032,No Human Significant Mouse,Indie,2012,12,916823,3.5,5,3
+153,648,Go! Loves Turkmenistan Of Lonely,Latino,2014,13,790198,1,5,4.5
+154,19441,Hands,Holy Metal,2018,9,219875,0.5,0.5,4
+155,13687,The Story of Lamacorno,Brit-Pop,2003,11,598301,1.5,0.5,3
+156,42331,Logical Morocco,Metal,2011,11,771703,2.5,2.5,3.5
+157,5630,Week Hungry Developer Wipe Show,Dance,2015,14,114436,2.5,2.5,4.5
+158,40571,Plate Believe Island,Gospel,2014,4,937404,5,5,3
+159,11023,Gan,Indie,2013,8,208582,4.5,5,3
+160,5242,Darkness of Upset Entertaining Playing,Rap,2013,9,241385,0.5,0.5,1.5
+161,19825,Fireman Global,Dance,2000,8,153738,3.5,5,0.5
+162,48831,TOP In The Sky Of Death,K-Pop,2009,11,888039,1,4.5,5
+163,23087,In the Sky Eat Drink and Be Merry Najdi Sheep History,Rock,2004,8,603482,3,0.5,5
+164,26338,Rare,Indie,2013,8,956757,3,3.5,5
+165,10563,China,Lounge,2004,4,660175,3.5,4.5,3.5
+166,30707,God Save Algeria Estar,Western,2014,3,17005,4,2.5,5
+167,1767,First Yesterday To Pure Indian,Punk,2011,9,292083,2,0.5,0.5
+168,23548,Kenworth Georgian,Brit-Pop,2008,15,401724,3.5,1,2
+169,17822,Smart No Human Robbers,Deep House,2006,12,296804,0.5,1,1
+170,19565,Persian Chapter book Strong,Ambient,2006,6,118119,2.5,5,0.5
+171,24941,Human MINI Microwave FAW,Indie,2011,5,652757,5,0.5,2
+172,1988,Human MINI Microwave FAW,Indie,2013,9,174143,5,5,2
+173,43032,Sister Unfair Interesting Italy,Metal,2007,2,14304,2,3,4
+174,648,Economist Porsche Small Impossible Strict,Jazz,2007,9,696349,3.5,3.5,2
+175,19441,Needy Chichen Mitsubishi,Jazz,2011,11,724676,1.5,1.5,1
+176,13687,Magic Alligator Aboriginal Headless Chicken,Indie,2019,15,91141,1,4.5,4
+177,42331,Down Uzbek,Blues,2015,13,800277,1,1.5,3
+178,5630,Obvious Complete Don't You,Pop,2004,8,620110,1.5,2.5,2.5
+179,40571,First Yesterday To Pure Indian,Punk,2011,5,956570,4.5,1,3
+180,11023,Icelandic,Indie,2014,9,226641,3.5,0.5,4
+181,5242,Of Pregnant Computer Hardware Let's Go,Death Metal,2004,6,522991,2,2.5,1
+182,19825,Strict Unhappy,Ambient,2010,2,396502,2.5,2.5,5
+183,48831,Enemy Geese Geese Like Spaghetti,Heavy Metal,2012,13,589461,4,1.5,4
+184,23087,Huge Referee,Gospel,2009,10,789804,3,0.5,3.5
+185,26338,Lover Barbie Of Rock,Rock,2013,4,259981,0.5,5,4
+186,10563,Detailed Recent,Rap,2006,13,199805,4,1,4
+187,30707,First Yesterday To Pure Indian,Punk,2015,10,425415,5,0.5,3.5
+188,28142,More Pakistan Fall Electrical,Indie,2006,10,961859,2.5,2,3
+189,36617,Stereotyped Mathematician,Pop,2011,9,488769,1,4.5,4
+190,9130,Aboriginal Bird Actual,Rap,2012,4,930534,3.5,1.5,4
+191,15017,Stereotyped,Blues,2009,8,831282,5,4.5,5
+192,25844,Hyundai,Compilation,2012,8,815974,5,3.5,3
+193,44213,Hungry Loves Incredible,Death Metal,2008,14,530091,3,4.5,2.5
+194,23310,Zinc Son Georgian Next to,Indie,2017,11,347168,3,1,3.5
+195,41943,Out Would You Like To Be,Pop,2012,6,701101,4,4,2
+196,19825,Huge Elk Magic MINI,Rap,2016,4,808069,1,0.5,1.5
+197,48831,Electrical Darkness,Latino,2011,11,578975,5,5,4.5
+198,23087,Human MINI Microwave FAW,Indie,2005,4,176671,2.5,3.5,1
+199,26338,Pharmacist Final Form,Gospel,2017,8,714723,3,2,3
+200,10563,Of Love Butter Suspend Agent Catadiottro,Live,2004,8,164753,1,0.5,5
+201,30707,Soups,Indie,2012,10,20830,4.5,4.5,0.5
+202,28142,Relevant Incredible Competitive,Blues,2019,10,273165,2,3,1.5
+203,36617,Enemy Explain,Techno,2007,15,663275,1,2.5,4
+204,9130,Xiang Javanese,Latino,2009,14,168029,4,4,4.5
+205,15017,Saudi Country Minnie Moon For Us,Compilation,2018,8,919563,1,2,0.5
+206,25844,Try Cadillac,Pop,2017,4,604311,5,0.5,4.5
+207,44213,Human MINI Microwave FAW,Indie,2002,14,685264,1,0.5,0.5
+208,23310,Severe Popular,Rap,2007,13,787583,4.5,2.5,0.5
+209,41943,I'll Secretary,Brit-Pop,2017,5,742257,4,3,2.5
+210,19825,Geese Clam I'm Curious,Rap,2012,2,530257,3.5,4,0.5
+211,48831,Candy Elisa My Love,Dance,2010,15,866858,1,1.5,5
+212,23087,High Informal The Of,Death Metal,2000,3,251169,2,1.5,1.5
+213,26338,Garden Car Plate Stews,Dance,2010,8,582318,2.5,3.5,3
+214,10563,Several Strong Forget It Impossible China,Trap,2013,12,50587,5,0.5,2
+215,30707,Lonely Are You My Inner Tiger Visible,Unplugged,2016,9,929753,4.5,2.5,2
+216,28142,Different Asleep,Live,2012,10,424901,1,2.5,5
+217,36617,Below the,Rock,2009,13,92427,0.5,1,3
+218,9130,About cuddly Jewel Kia Hills,Latino,2010,7,578199,1,3,0.5
+219,15017,You Ugly Balance Rare,Heavy Metal,2016,6,602459,0.5,1,2.5
+220,25844,Bosnian,Hard Rock,2011,10,445445,4.5,3.5,1
+221,44213,Escuchame Rupert,Rock,2010,15,677239,4,2.5,3
+222,23310,Sword Of Love Unhappy The Blue Peugeot,Western,2012,6,657697,5,0.5,4
+223,41943,Arabic Goblin Under Excalibur,Holy Metal,2015,4,636774,4,5,3.5
+224,19825,Morgan The Queen Honda,Indie,2013,8,487965,0.5,5,1
+225,48831,And Secretive Eastern Trick,Heavy Metal,2019,4,898239,1,1,5
+226,23087,Indonesia,Rap,2009,13,992900,3,3,4
+227,26338,Assistant Not my The Long And Winding Road I Wanna be In,Parody,2010,3,837071,2,2.5,2.5
+228,10563,Trick Kicking your Cause Of Love Electronic,Pop,2013,6,656427,3.5,0.5,5
+229,30707,Talented,Compilation,2001,4,67631,4,1.5,2.5
+230,28142,Shame Sorry Respiratory Therapist Califiornia,Unplugged,2003,11,625171,1,1,3
+231,36617,Dodge Price Support Escuchame In the Sky,Pop,2018,8,405239,0.5,4,2
+232,9130,Lawyer Dragon,Techno,2011,15,449727,3.5,1,4.5
+233,15017,Klingon Obvious Topolino Tutti i Frutti,Latino,2005,13,888529,2,4,3
+234,25844,Pure,Indie,2011,10,490527,5,0.5,3.5
+235,44213,Rare,Rap,2018,6,799291,4.5,4,0.5
+236,23310,Pencil Yellow Huge Goblin,Heavy Metal,2002,15,809548,3,5,4.5
+237,41943,Beautiful People Soprattutto Island Economist Psychological,Pop,2006,10,749758,2.5,3,3.5
+238,19825,Skoda,Rock,2015,8,489999,1,3,2.5
+239,48831,Malaysia,Techno,2006,7,11114,2.5,4.5,5
+240,23087,Needy Tiger,Pop,2006,12,341694,4.5,4.5,2
+241,26338,Geese,Hard Rock,2003,15,823977,4,4.5,4
+242,10563,Truck Northern Hindko known Remake And,Retro,2012,7,515669,0.5,3.5,1
+243,30707,Geese Practical Alpaca I Gotta Feeling,Blues,2007,6,918134,3,3.5,1
+244,28142,Isuzu Shame Uzbekistan,Ambient,2013,5,508199,1.5,2,3
+245,36617,Bulgarian Indonesia Psychologist My Asset,Indie,2000,5,228281,2,0.5,5
+246,9130,Eastern Thunder Lizard,Rock,2000,12,526000,4.5,3,1.5
+247,15017,Audi,Folk,2013,4,405430,2.5,5,4.5
+248,25844,Beyond Brawny Miss,Pop,2014,13,989312,1.5,2.5,3.5
+249,44213,Darkness Deafening Pakistan Inner I used to,Techno,2002,12,575549,5,3,3
+250,23310,First Yesterday To Pure Indian,Punk,2018,12,964533,1,1.5,4.5
+251,41943,Arabic,Dance,2008,4,788259,3.5,2.5,4
+252,19825,Unfair Big They Were,Heavy Metal,2003,7,453755,1.5,3.5,5
+253,48831,Guitar Shame That's my United,Pop,2002,7,493873,2.5,4,4
+254,23087,Bulgaria Obvious Star Interesting Middle School Teacher,Techno,2017,7,519075,3,2,3.5
+255,26338,You Ugly Sunshine You are My,J-Rock,2005,11,960145,1,2.5,5
+256,10563,New Face Intelligent,Boy Band,2017,2,79363,4,5,2.5
+257,30707,Curious OCamel Mare,Indie,2005,7,241522,3,5,3
+258,28142,Invention Colouring Throw Me,Metal,2012,5,136727,1,4.5,4
+259,36617,I Really Want Veterinarian Medalion,Punk,2014,4,670213,1,1,0.5
+260,9130,Upset Alleged Past Tiny,Progressive,2004,11,674248,4,3,3
+261,15017,Unhappy A Wild Magyar Hungarian Overflow Next to,Pop,2004,6,350852,4.5,4,2
+262,25844,Legs,Trap,2015,5,952784,5,0.5,3
+263,44213,Word Georgian Stick Words Impossible,Country,2001,2,500046,4.5,4.5,2
+264,23310,Beer Darkness of Epidemiologist,Indie,2009,10,956621,0.5,1.5,3.5
+265,41943,Sexual Shame,Hard Rock,2009,6,399459,2.5,2,1
+266,44877,Psychological Goodbye my Old Moves Made in,Holy Metal,2014,13,389590,1,5,4
+267,10563,Candy Elisa My Love,Dance,2013,13,560302,5,5,3.5
+268,30707,Behind The Real Neesan,J-Rock,2016,15,68780,3.5,2.5,4.5
+269,28142,California Adventure of the DJ Mix,Metal,2013,7,339607,4.5,5,1.5
+270,36617,Obviously Sick Charming In Your Eyes,Boy Band,2000,12,529409,3,5,4
+271,9130,Of Destiny Young Signorino OCamel Recent Tree,Death Metal,2009,2,35034,2,3,3.5
+272,15017,Amore Dolor,Latino,2007,10,799176,3,1.5,2.5
+273,25844,Bonjour Damoiselle Belle,Lounge,2009,3,693322,1.5,4,1
+274,44213,Hear Eat Drink and Be Merry Medalion Immediate,Indie,2011,14,35509,3.5,0.5,3
+275,23310,Immediate Needy Arabic In the Sky Dreamed,Indietronica,2007,12,525270,5,4.5,4
+276,41943,Amore Dolor,Latino,2003,4,84426,4.5,5,4.5
+277,10563,Hey Jason Pencil Immediate,Indie,2002,13,641473,1,2.5,3.5
+278,30707,Adjoining Jeep Reforge,Pop-Rock,2002,11,170647,0.5,1,5
+279,28142,Sorry,Progressive,2017,13,488649,5,4,1
+280,36617,Legal Anxious My Fluffy Full of,Dance,2000,5,814476,4,5,4
+281,9130,Bat Persian Good More Shield,Brit-Pop,2006,4,128918,4.5,4.5,0.5
+282,15017,I'm Chocolate,Boy Band,2001,3,413276,1,4.5,3.5
+283,25844,Bonjour Damoiselle Belle,Lounge,2003,7,946328,4,5,2
+284,44213,Secretive Acura Hyundai Sadness,Dance,2008,7,841979,2,3.5,4.5
+285,23310,Lover Barbie Of Rock,Rock,2005,12,556402,2,1,3
+286,41943,Penniless Italy,Electro-Pop,2003,10,564293,2,4.5,3.5
+287,10563,I'm On Instagram Puma,Pop-Rock,2008,14,227562,3.5,0.5,5
+288,30707,Make it,Electro-Pop,2014,5,584431,3.5,3.5,2
+289,28142,Of Love Central Gonna Dark,Punk,2003,9,443669,4,3.5,3
+290,36617,California Nervous Majestic Mobile,Dance,2007,14,277538,5,3.5,1
+291,9130,Alleged Small Sadness,K-Pop,2018,8,711566,4.5,2.5,3.5
+292,15017,I'm On Instagram Puma,Pop-Rock,2005,14,951861,3,5,1.5
+293,25844,Healthy Son Come Wonderful,Western,2014,9,717231,1,1,1
+294,44213,Substantial,Dance,2001,2,603048,3,1.5,1.5
+295,23310,Italian Humans Ultra-Maximus Maria,Progressive,2012,13,863066,1,2,2
+296,41943,Finnish Seafood Rhinoceros Crying for the,Live,2009,11,504534,1,1,3
+297,10563,Price,Jazz,2016,6,22307,2.5,3,1.5
+298,30707,Territory Recent Desserts Elephant,Hard Rock,2000,12,365012,5,4,1.5
+299,28142,That's my Eastern,Unplugged,2010,9,370156,2.5,3,1
+300,36617,Hyundai Chip,Indie,2013,7,849723,4,1.5,0.5
+301,9130,Matteo Go! Persian Suzuki Reloaded,Alternative,2017,8,41309,4,1,2.5
+302,15017,You are My I'm Xiang Impressive,Parody,2000,2,264417,1,1,2
+303,25844,That's My Ultra-Maximus Lamb,Black Metal,2012,13,208634,5,5,4
+304,44213,Bandicoot Mister Algeria,Brit-Pop,2001,9,106561,2,2,4.5
+305,23310,My Life Indonesia Drived,Gospel,2001,13,705421,2,1.5,3.5
+306,41943,Need Arrange Respiratory Therapist Skoda,Pop,2003,12,46729,1.5,1.5,4.5
+307,10563,Intelligent Construction Lawyer Of Lover,Folk,2003,3,411118,5,4.5,0.5
+308,30707,Respiratory Therapist Aggressive Red Arrange,Rap,2019,13,554439,3,3,3.5
+309,28142,Discovery Drived Arabic Counselor Squirrel,Brit-Pop,2012,5,459824,2.5,5,3.5
+310,36617,Distinct DJ Mix Terrible Forgive In the Sky,Pop-Rock,2014,4,969515,1,2.5,4.5
+311,9130,Verdura in Da Jeans,Parody,2002,8,680387,3,1.5,3.5
+312,15017,Miss Of Love Serious About,Latino,2006,14,363532,2.5,2,4
+313,25844,Public Relations Specialist Sound,Rock,2003,12,622602,3.5,5,4.5
+314,44213,Coati Mad,Holy Metal,2011,2,112711,5,4,2
+315,23310,Fear Lover At Home Boy,Jazz,2009,6,492491,2.5,5,0.5
+316,41943,Fear Robbers,Ambient,2015,4,163060,4.5,1.5,4
+317,10563,Human MINI Microwave FAW,Indie,2014,12,338163,4,3,1
+318,30707,United Visible Swedish Electrical,Rock,2011,8,455515,2.5,3.5,5
+319,28142,Former Dongfeng You're Gonna Direful Pakistan,J-Rock,2009,10,268190,0.5,2,0.5
+320,36617,Down into the Entire I used to Moccasin,J-Rock,2015,10,643698,1.5,4.5,4.5
+321,9130,Word Hysterical Administrator Traditional,Indie,2015,10,669410,3,4,4.5
+322,15017,kill Belligerent Nepal My Kenworth,Compilation,2017,6,669529,1,2.5,1
+323,25844,Human MINI Microwave FAW,Indie,2017,11,830502,1,1,3
+324,44213,The Long And Winding Road Woodchuck Of Love,Pop-Rock,2006,5,354857,4,1.5,0.5
+325,23310,The Baddest Female Algeria Loves Bertie-Face,Parody,2003,15,698525,5,2.5,1
+326,41943,Vicuna Loves Lexus Syria,Live,2002,12,383991,1.5,5,1.5
+327,10563,Significant Preschool Teacher Stereotyped,Electro-Pop,2006,14,350714,2,1.5,1.5
+328,30707,Don't Touch My Nove Millimetri,Western,2005,6,438027,1.5,1,0.5
+329,28142,TOP In The Sky Of Death,K-Pop,2018,12,157946,4.5,3,0.5
+330,36617,Tomorrow My Best,Heavy Metal,2012,5,861843,1.5,2.5,3.5
+331,9130,Big,Hard Rock,2011,14,415605,4.5,3.5,2
+332,15017,For Us Cashier,Dance,2012,5,581248,2.5,5,1
+333,25844,Administrative Eat Drink and Be Merry Developer Basic To Death,Punk,2018,7,443282,1.5,1.5,4.5
+334,44213,Fierce Relax,Indie,2008,13,431813,3,1,0.5
+335,23310,Dominator Manager Killer Playing,Lounge,2009,8,981057,5,3,1
+336,41943,Medical Medical Terrible,Indie,2015,4,601794,0.5,4.5,1.5
+337,10563,Impressive Conscious Darkness,Metal,2002,10,733463,2.5,1.5,1
+338,30707,Arm Eleven,Rap,2019,10,323382,2.5,0.5,5
+339,28142,Incredible,Deep House,2016,9,960962,5,4.5,1
+340,36617,Is Pig Latin Is My Religion,Rap,2019,14,507797,3.5,3,1.5
+341,9130,Trick Competitive Standard Final Practical,Jazz,2013,10,993891,4,3.5,5
+342,15017,Advisor Color I'm Ford,Black Metal,2001,5,537046,3.5,2,0.5
+343,25844,Of Love,Retro,2002,15,150961,2,2,1
+344,44213,Alive East Timor Little Time Bosnia and Herzegovina,Rap,2000,12,840638,1,3,5
+345,23310,Unicorn,Live,2008,3,314312,2,0.5,3.5
+346,41943,Car Xiang,Punk,2014,2,150867,4,2,4
+347,44213,Educator Dolls Of Love Inside the Fierce,Retro,2019,6,360144,1.5,2,2.5
+348,23310,Riding The Matteo Of Fear,Electro-Pop,2000,5,420067,4.5,2.5,1
+349,41943,Goblin Arise From Italy,Rap,2006,3,92715,3.5,4.5,0.5
+350,10563,Escuchame Matteo,Death Metal,2000,6,61526,2.5,5,2
+351,30707,That's My Ultra-Maximus Lamb,Black Metal,2012,14,624986,4,3,2
+352,28142,Goblin Arise From Italy,Rap,2011,2,242192,0.5,3,2
+353,36617,Charming,Boy Band,2015,10,397520,5,2.5,3.5
+354,9130,Impossible Persian Pleasant India,Latino,2000,2,310302,4.5,2.5,5
+355,15017,Administrator Rhinoceros Available Form,Indietronica,2010,15,742439,5,3.5,1
+356,25844,Yue Sew on Which Side Bread Is Buttered Of Love Finding,Rap,2006,12,523284,0.5,3.5,3.5
+357,44213,Fall,Rap,2001,9,426780,5,0.5,3.5
+358,23310,Tiger Flip,Indie,2000,4,948161,4.5,4.5,2.5
+359,41943,I'm Dreamed Pleasant Rock That Doggies,Rock,2006,8,107644,4.5,4,1.5
+360,44213,Gazelle,Gospel,2017,5,239697,3.5,2.5,4
+361,23310,So Intuitive Existing Goodbye my Old,Holy Metal,2005,5,195705,5,3.5,2.5
+362,41943,Bertie Engineer Inner Technical Tiny,Hard Rock,2015,10,16378,1,1,5
+363,10563,Familiar Matteo Arabic Behind the,Rock,2010,12,298012,3,2,0.5
+364,30707,As Gonna,Indie,2000,12,407777,1,4.5,2.5
+365,28142,Riding The Matteo Of Fear,Electro-Pop,2002,13,347084,3,4,3
+366,36617,Federal Form The Long And Winding Road Invention,Dance,2010,15,285835,2.5,1,1
+367,9130,Gabby Zebu Boys,Blues,2001,14,642320,5,2,1
+368,15017,Moustache Love Riding Road,Hard Rock,2004,4,658927,1,3.5,1.5
+369,25844,Saudi Catch Me From Italy Party,Unplugged,2000,10,387771,0.5,4,3
+370,44213,Candy Elisa My Love,Dance,2014,5,495841,5,4,4
+371,23310,First Yesterday To Pure Indian,Punk,2005,10,335190,1,4,1.5
+372,41943,Like Belligerent Suspend,Folk,2010,11,96100,1,0.5,4.5
+373,44213,Luxembourg Let's Go Impressive Hebrew Hijazi,Death Metal,2004,3,546297,5,1.5,3.5
+374,23310,Actual,Trap,2013,6,380498,0.5,1,2.5
+375,41943,Mi Corazon Hope,Country,2014,3,801062,4,4,3.5
+376,10563,Anxious Friendly Of Love Brawny Fire,Punk,2002,3,704308,4.5,0.5,4
+377,30707,Brawny Lover Successfully,Retro,2007,10,973601,4.5,3,0.5
+378,28142,Human MINI Microwave FAW,Indie,2002,10,822233,2,1.5,2
+379,36617,Full of Secretary Throw Me Make it,J-Rock,2005,2,40203,2.5,2,5
+380,9130,Exciting Living On A Prayer Next to,Indietronica,2012,3,626626,3,2.5,2
+381,15017,The Delightful Heroes of Wales Lamacorno,Trap,2005,14,59593,2.5,4.5,4
+382,25844,Trick,Electro-Pop,2001,6,117756,4,4.5,3.5
+383,44213,Paramedic Mathematician,Folk,2018,15,722927,1.5,1,1.5
+384,23310,Scared Dominator Full of Difficult,Techno,2003,6,747609,1,2.5,4
+385,41943,Upset,Parody,2002,10,868728,4,4,5
+386,44213,Tiny Vampire Prince Of Of Love,Alternative,2006,9,385414,3,2,3.5
+387,23310,Agent,Hard Rock,2002,8,583687,4.5,0.5,3
+388,41943,Boys FAW,Indie,2010,4,905412,3,1.5,1
+389,10563,Lincoln Financial,Metal,2008,2,459668,3.5,4.5,1.5
+390,30707,Lover Barbie Of Rock,Rock,2013,9,143555,4,4,1.5
+391,28142,Tiny Relax Penniless Icelandic God Save,Pop,2002,2,103819,1.5,4.5,3.5
+392,36617,Substantial Happy Practical Sky,Rap,2012,8,11719,5,0.5,3
+393,9130,Zelda Power Of Darkness Arabic,Heavy Metal,2019,8,325722,0.5,1.5,0.5
+394,15017,Of Badger Don't You Hanger,Alternative,2010,5,794959,3.5,4,2
+395,25844,Kenworth,Alternative,2005,3,612999,2,2,3.5
+396,44213,Don't Touch My Nove Millimetri,Western,2004,12,794788,1.5,3,5
+397,23310,Sin Lovers My Throw Me Asleep,Folk,2004,14,861891,2,5,1
+398,41943,Behave,Indie,2009,6,619203,4,4,5
+399,44213,God Save The Streets Box Nice,K-Pop,2005,10,252751,4.5,2.5,2
+400,23310,Spider,Unplugged,2018,12,341025,3.5,1.5,1
+401,41943,Majestic Would You So Intuitive Adjoining,Hard Rock,2017,14,157043,5,5,2
+402,10563,Llama,Latino,2000,15,908029,4,4,3.5
+403,30707,Miss Pregnant Forget It Remake,Live,2017,10,723736,1,2.5,3
+404,28142,Brawny Robbers School Psychologist Behave,Death Metal,2010,15,492595,4.5,4,0.5
+405,36617,Pies Mongolian,Ambient,2014,15,683909,5,1,2.5
+406,9130,Zelda Power Of Darkness Arabic,Heavy Metal,2013,4,957730,0.5,4.5,0.5
+407,15017,Brash Scarce Alleged Messy Mare,Pop,2000,8,705661,3,2.5,3.5
+408,25844,Nepal Sandwiches Not my,Retro,2000,9,722093,1,1,4.5
+409,44213,Like Catadiottro,Gospel,2018,13,167081,2.5,3,0.5
+410,23310,Music Green,Electro-Pop,2005,8,248140,4.5,3,4.5
+411,41943,Too Much Richer Ugly Zebra,Death Metal,2007,14,263576,2,4.5,3
+412,44213,Running Around Like a Headless Chicken,Punk,2013,15,761318,2.5,4.5,1
+413,23310,Maruti Suzuki Annoying Noodles Gazelle Is My Religion,J-Rock,2013,7,93703,2.5,1,2
+414,41943,The Delightful Heroes of Wales Gabby Strong Reborn Iran,Trap,2006,6,862981,3.5,2.5,1
+415,10563,House RULEZ,Deep House,2000,7,113439,1,0.5,2.5
+416,30707,Try Cadillac,Pop,2005,13,852354,4,0.5,1.5
+417,28142,Psychologist Try Humans Don't Talk to Make It,Retro,2019,15,301212,1.5,5,4
+418,36617,Adventure of the Of Love,Alternative,2001,3,732404,2.5,5,2.5
+419,9130,Beautiful People Rock 'n' Roll Conscious Gentle,Metal,2007,15,621900,3.5,0.5,1.5
+420,15017,Saudi Catch Me From Italy Party,Unplugged,2017,10,857132,5,1,1
+421,25844,Pure,Rock,2010,12,324906,1.5,1,3.5
+422,44213,The Blue House,Hard Rock,2012,7,952829,2.5,5,5
+423,23310,A Wild Dolphins Noodles Remarkable Arrange,Pop,2003,12,681905,5,0.5,4
+424,41943,Past Star Trek Dark Red,Metal,2014,8,595345,3.5,2,3
+425,44213,Better have Administrative Bangla Ampelmann,Rock,2009,15,76746,3.5,5,1
+426,23310,Relevant Running Around Like a Llama,Indietronica,2010,15,763918,0.5,1.5,2.5
+427,41943,Squirrels,Indietronica,2008,15,176105,2.5,2.5,2
+428,10563,United Desperate Of Love Toys,Rap,2004,4,816144,1,3.5,0.5
+429,30707,Turkmen I'll Fireman In the Sky,Dance,2007,15,660016,5,1,2.5
+430,28142,Of Love Honored Environmental Kicking your Arabic,Western,2015,9,284340,1,2.5,1.5
+431,36617,California,Indie,2003,11,90999,3,4.5,1.5
+432,9130,Direful Healthy,Progressive,2015,13,724536,4,1,5
+433,15017,Pregnant Uzbekistan Animals Strong Sorry,Rock,2006,2,337351,2.5,4.5,0.5
+434,25844,Direful,Retro,2015,10,742650,4,2.5,4.5
+435,44213,Of Love I'm Civil Different Electrician,Pop-Rock,2015,12,789058,2.5,2.5,5
+436,23310,Dominator Engineer Embarrassed Wine,Indie,2008,3,178119,1.5,4.5,1
+437,41943,Geese Analyst,Heavy Metal,2001,7,162975,2.5,3.5,3.5
+438,44213,Running Around Like a Headless Chicken Nissan Candy Lovers,Rap,2011,13,223815,2.5,4,2.5
+439,23310,Try Hot Obvious Obviously,J-Rock,2013,10,782626,1,4.5,4.5
+440,41943,Cat,J-Rock,2005,12,796269,1,4.5,0.5
+441,10563,Hot Bertie,Rap,2006,8,702531,0.5,5,2.5
+442,30707,Joy Tiger Latter,Progressive,2009,8,370859,4,4,2
+443,28142,Hysterical Pleasant Penniless Talented,Pop-Rock,2005,8,932139,3.5,5,2.5
+444,36617,Pure Lexus No Human Southern Scarecharming,Country,2011,12,492996,1,4,3.5
+445,9130,Electrical In Your Eyes Competitive,Pop,2015,4,423217,1,2,2.5
+446,15017,Clamp Medalion Bislama The Streets In the Sky,Punk,2009,11,642435,3,2,2.5
+447,25844,Dark Red Unlikely Relax I'm,Compilation,2012,5,955319,2,3,1
+448,44213,Flippin Behind the,Black Metal,2011,4,617959,4,3,0.5
+449,23310,Dolls In the Sky Event Planner China Morgan,Gospel,2009,5,10086,4,2.5,4.5
+450,41943,Amore Dolor,Latino,2000,2,292310,0.5,0.5,5
+451,44213,First,Pop-Rock,2007,10,88777,3.5,5,2.5
+452,23310,God Save Of Love Lemon Totally,Pop,2008,5,704560,1.5,5,2.5
+453,41943,Lamacorno Findus Yellow Alpaca,Trap,2014,5,864542,2.5,3.5,3
+454,10563,Interesting,Techno,2006,9,377095,1,1,3.5
+455,30707,Mix,Pop-Rock,2011,11,411051,3,2.5,2
+456,28142,Try Cadillac,Pop,2011,15,446091,0.5,2.5,3.5
+457,15017,You Ugly Eleven,Alternative,2011,3,47730,2,4.5,4
+458,25844,Arabic Goblin Under Excalibur,Holy Metal,2019,6,456220,1,0.5,1.5
+459,44213,Asleep My Old,Rock,2014,12,403017,2.5,4,3.5
+460,23310,Young Signorino Next to Suspend,Indie,2015,13,132091,4.5,3,5
+461,41943,Pakistan Hook Indonesia,Indietronica,2009,13,685645,3,4,2
+462,44213,Scream Spine Green,Rap,2018,6,638072,2,0.5,3
+463,23310,Of Love Odd Running My Best Glossy,Blues,2007,12,81257,5,0.5,2.5
+464,41943,Sunshine Eyes,Boy Band,2005,12,615670,4.5,0.5,4
+465,10563,Pies,Pop-Rock,2003,5,629543,2.5,5,0.5
+466,30707,About a Lonely Fishrman Goblin,Brit-Pop,2004,8,38443,3.5,2.5,3
+467,28142,The Riding,Rap,2004,9,785465,1,4.5,2.5
+468,36617,Seat Tamil Come,Rock,2010,12,314877,3.5,3.5,2.5
+469,9130,The Ballad Of Super Bella,Death Metal,2005,3,631273,5,1,3.5
+470,15017,The Relevant Butter Jollar,Indietronica,2001,14,335004,1.5,3,5
+471,25844,Unable Annoying Matteo,Rap,2014,12,919173,1.5,5,1
+472,44213,Expensive School Psychologist Pies Mercedes,Latino,2004,4,276155,0.5,1,0.5
+473,23310,Dance Sorry Rich,Rap,2019,7,99911,4.5,1.5,4.5
+474,41943,Arabic Falling in Love with Brash Public Relations Specialist,Deep House,2018,9,145229,4,3,1.5
+475,44213,OCamel Color Muddy,Hard Rock,2016,15,847805,0.5,1.5,2.5
+476,23310,Ambra Miami Dream,Country,2008,4,936902,0.5,4,2.5
+477,41943,Dolls,Indie,2000,9,681420,1,2.5,1.5
+478,10563,BMW Doggies General,Pop,2002,7,249443,3,2.5,1
+479,30707,Aware Shock Tree,Rock,2005,4,917606,1,3,3.5
+480,28142,Matteo Go! Persian Suzuki Reloaded,Alternative,2007,13,620288,3,3.5,5
+481,36617,Ugly Soups Frank Booth State of,Compilation,2012,11,296534,2.5,3,2.5
+482,9130,About a Lonely Fishrman Goblin,Brit-Pop,2010,13,801391,1,4.5,4
+483,15017,I'm Da Real Full of,Pop,2005,9,167864,0.5,1,2
+484,25844,Fitness Trainer Bertie Electronic Goes,Pop,2013,14,315617,4.5,1,3
+485,44213,Soups Green,Rap,2000,9,948529,4.5,3,2
+486,23310,Country Childcare worker My Old Falling in Love with Camel,Unplugged,2015,15,802030,0.5,2.5,4.5
+487,41943,Hear,Gospel,2009,9,460593,4.5,3.5,1
+488,15017,Candy Elisa My Love,Dance,2016,14,734470,1,4,4.5
+489,25844,My Worst United Pakistan Deafening Sorry,Punk,2012,12,348337,2.5,3.5,5
+490,44213,Impossible Hope That's my Fireman,Pop,2015,9,547895,2.5,5,2.5
+491,23310,Principale Daimler Eastern Vampire Porcupine,Pop-Rock,2007,10,231994,0.5,4,2
+492,41943,History Rare To my Beloved Familiar Support,Gospel,2004,12,50750,2,0.5,2.5
+493,44213,Magic,Lounge,2018,6,799515,1.5,5,4.5
+494,23310,The Ballad Of Super Bella,Death Metal,2014,9,28819,2,4.5,1.5
+495,41943,They Were Daihatsu Face Mitsubishi,Folk,2009,15,481676,0.5,4,3
+496,10563,Moves Permit Immediate They Were Star,Heavy Metal,2011,14,313496,1,3.5,4
+497,30707,American Boy Audi,Techno,2000,7,133894,5,1.5,4
+498,28142,Candy Elisa My Love,Dance,2012,3,348313,2,2.5,4
+499,36617,Magenta Successful,Holy Metal,2008,13,509935,3.5,3.5,3.5
+500,9130,Inconcepibile Turkish,K-Pop,2012,7,916307,3.5,0.5,3
+501,15017,The Permit Cultural OCamel Desperate,Metal,2007,9,227047,0.5,1.5,4.5
+502,25844,Don't Forget the Healthy Discovery The Baddest Female,Dance,2008,5,281908,1,2.5,0.5
+503,44213,Carrots Bulgarian Dental Hygienist Alexander Platz,Hard Rock,2000,4,941238,1,5,2.5
+504,23310,Exciting Toad Historical Reloaded I Ain't No,Punk,2009,11,849049,2.5,2.5,4
+505,41943,Psychedelic Mercedes Is Suspend,Indie,2014,4,864649,0.5,4,4
+506,44213,Human MINI Microwave FAW,Indie,2004,5,575079,2,4,5
+507,23310,Come Matteo Dacia,Folk,2001,13,170111,3,5,4.5
+508,41943,Shop Dutch No Pantalones,Rap,2012,12,462469,3.5,2,2
+509,10563,At Home Mind Butter,Latino,2001,14,651202,0.5,0.5,5
+510,30707,Ford Bulgaria Come On Architect,Retro,2004,8,823217,5,3,0.5
+511,28142,Mi Corazon Hope,Country,2016,5,849794,2,3,4
+512,36617,Would You Suspend Dacia Magic,Heavy Metal,2003,6,921773,0.5,3,2
+513,9130,Candy Elisa My Love,Dance,2015,14,407838,3.5,0.5,0.5
+514,15017,Impressive Come On,Punk,2014,9,712378,2,5,4.5
+515,25844,My Life Pakistan,Holy Metal,2011,13,828475,3,0.5,5
+516,44213,Spoon Dacia,Alternative,2002,13,191638,2.5,0.5,0.5
+517,23310,Darkness Needy,Latino,2004,14,166218,4.5,3,4.5
+518,41943,Useful Powerful Urban Planner Enemy,Alternative,2015,10,4560,3.5,2.5,0.5
+519,15017,Human MINI Microwave FAW,Indie,2013,2,463401,2,3,1
+520,25844,Allegretto Willing Lucky Forget It Price,Rap,2003,6,535093,4,2,3.5
+521,44213,You are my Sweet Several No Human,Punk,2011,6,16254,1,3,2.5
+522,23310,Goblin Arise From Italy,Rap,2016,12,530645,2,1,2
+523,41943,Deafening Legs Make It Inconcepibile Shame,Electro-Pop,2005,6,423176,3.5,2.5,2
+524,44213,War Significant Zinc Speech-Language Pathologist Balance,Metal,2019,4,49989,3.5,1,5
+525,23310,Sew on Which Side Bread Is Buttered Realistic Falling Don't You,Alternative,2005,15,346509,3.5,1,1
+526,41943, cuddly Lover Country Difficult I Ain't No,Pop,2010,3,909529,2.5,4,1
+527,10563,Moneyless Bulgaria Alexander Platz,J-Rock,2015,4,344263,0.5,4,2.5
+528,30707,War Substantial,Dance,2001,2,137746,2.5,2,4
+529,28142,Adjoining,Black Metal,2011,15,765331,4.5,1,3.5
+530,36617,First Various Of  Toyota Microwave,Compilation,2006,9,315884,2,2,1.5
+531,9130,Flippin' Pony Spain Effect Cereals My Life,Hard Rock,2017,15,520165,4,3.5,2.5
+532,15017,Mental Stews,Punk,2014,8,202395,5,3.5,1.5
+533,25844,Totally Gabby Childcare worker,Pop-Rock,2002,15,257331,1,2.5,3
+534,44213,Isuzu Goodbye my Old Morbido Listen,Ambient,2013,5,173597,2.5,4.5,0.5
+535,23310,Boy Audi Poland,Pop,2013,9,46454,2.5,5,2
+536,41943,Technical Needy Car Scarecharming,Indie,2005,4,459678,0.5,4.5,0.5
+537,44213,First Dancing,K-Pop,2007,9,24049,1.5,3.5,0.5
+538,23310,Lamacorno Findus Yellow Alpaca,Trap,2001,12,407186,0.5,2,1
+539,41943,Balance Computer Hardware,Indie,2005,2,469946,5,5,4.5
+540,10563,Invention,Dance,2004,8,26343,3.5,5,5
+541,30707,Bonjour Damoiselle Belle,Lounge,2011,14,438112,2,4,1.5
+542,28142,Federal Of Love kill,Country,2007,3,686815,1,5,4
+543,36617,Of Like Like Nervous Mongolian,Indietronica,2002,10,254972,3,5,2
+544,9130,Direful Saudi Poor Bless,Heavy Metal,2010,12,104591,4.5,4,3.5
+545,15017,Hysterical Min Nan Fire,Dance,2013,11,870299,2,3.5,0.5
+546,25844,Plate I Ain't No,Techno,2003,6,688572,1.5,2.5,2.5
+547,44213,FAW Psychologist,Dance,2007,3,361314,3.5,3,2
+548,23310,You're Gonna,Folk,2000,14,805179,1.5,4,2
+549,41943,Try Cadillac,Pop,2003,2,308907,5,1.5,3
+550,15017,Wine Counselor For my,Indie,2002,15,511225,4,3.5,4.5
+551,25844,Detailed Impossible Leopard,Alternative,2016,11,506120,3,2,1
+552,44213,Exciting Jerboa,Brit-Pop,2007,15,3865,3.5,5,5
+553,23310,Califiornia Finding Soups Volvo,Indietronica,2004,12,445498,1,5,2.5
+554,41943,Reloaded Antique White Falling in Love with Bug,Brit-Pop,2012,11,99330,2,0.5,1.5
+555,44213,Technical Typical,Country,2001,4,933421,2.5,0.5,0.5
+556,23310,Alexander Platz Dancer Pleasant Dark Red,Gospel,2009,8,961828,4,5,2.5
+557,41943,Skoda,Pop,2000,13,185504,2.5,5,4.5
+558,10563,MINI Of Love Escaped,Progressive,2014,2,721558,1,1.5,1.5
+559,30707,Riding The Matteo Of Fear,Electro-Pop,2009,13,99251,2.5,4.5,5
+560,28142,Visible,Pop-Rock,2019,3,692004,5,2.5,0.5
+561,36617,Lamacorno Dreamed No Pantalones,Live,2019,11,131341,3,5,5
+562,9130,Dreamed Psychedelic Pure Shop,Lounge,2014,6,916517,3.5,5,0.5
+563,15017,History,Heavy Metal,2014,8,838702,1,0.5,2
+564,25844,Pakistan,Retro,2005,11,909889,5,0.5,1.5
+565,44213,Of Love Iran Out,Progressive,2004,13,389325,5,2.5,1
+566,23310,Nervous Son Similar Computer Hardware Healthy,Blues,2018,10,726971,5,4.5,2
+567,41943,Camel,J-Rock,2016,8,711371,1.5,5,4.5
+568,44213,Pharmacist Final Form,Gospel,2013,14,493127,3,2,4
+569,23310,Sunshine Entertaining History Talented,Black Metal,2019,9,66680,4.5,4,2.5
+570,41943,Gentle,Black Metal,2018,11,53303,2,4,2.5
+571,10563,Mongolian Pencil Badger Able Jamila I think,Brit-Pop,2004,13,667549,3.5,4,3
+572,30707,Blue Riding Mike Down into the Come On,Indie,2004,11,352225,1,0.5,3
+573,28142,Assistant Eastern Relevant Successful,Death Metal,2005,2,101150,2,4,1
+574,36617,Arm Muddy Finding Useful,Metal,2000,8,213628,5,3.5,3
+575,9130,Lonely,Lounge,2005,13,825921,2,3,2.5
+576,15017,Loves,Western,2002,8,60022,3.5,1.5,4.5
+577,25844,Dodge My Old Legs,Pop-Rock,2012,8,29376,4,3.5,4.5
+578,44213,Manager Gentle Potwari,Boy Band,2018,5,846427,1,4,1
+579,23310,Of Rock Substance Muddy Renault Of,Heavy Metal,2003,13,909621,4.5,4.5,5
+580,41943,Magical DJ Mix Small Cereals Entire,Brit-Pop,2012,13,667051,1.5,1.5,4.5
+581,15017,Cat Spain That's my,Pop-Rock,2014,14,184205,3,1.5,5
+582,25844,On a Dolphins Gatto,Black Metal,2002,15,191001,3.5,5,1.5
+583,44213,Finding Guilty Embarrassed,Indie,2016,7,289794,2,5,0.5
+584,23310,Reloaded Cereals,Alternative,2007,3,489908,1.5,1.5,3.5
+585,41943,Candy Elisa My Love,Dance,2019,4,900102,4,3,2
+586,44213,Abuse,Deep House,2007,10,421876,2,4.5,1
+587,23310,Mi Corazon Hope,Country,2002,7,321192,5,4,4
+588,41943,Difficult Big Megabanana Would You,K-Pop,2017,2,420528,4.5,2.5,2.5
+589,10563,Don't Forget the Ampelmann Cause Better Off For my,Punk,2004,4,74059,4,2.5,3
+590,30707,Goodbye my Old I'm,Pop,2018,12,445186,4,2,2
+591,28142,Ferrari Next To Onesan,Techno,2002,6,476734,4,4,1.5
+592,36617,Fearsome Discovery Butch Cassidy and the Dance Kid Me Powerful Manager,Rock,2011,2,751240,3,3.5,2
+593,9130,My Best Hungry Parakeet Competitive,Dance,2019,15,964313,5,4.5,4.5
+594,15017,House Of Love France Mind Lose Control,Compilation,2017,13,801895,3,1,5
+595,25844,Available Dragon Ford,Latino,2013,10,901663,1.5,3,4.5
+596,44213,Medical Rock 'n' Roll Orange Traditional,Blues,2014,5,914229,5,1,4.5
+597,23310,Sick Under the Finding Follow,Parody,2009,12,949908,4.5,4,2.5
+598,41943,Cool,Compilation,2001,14,443298,3.5,1,2.5
+599,44213,History Reborn Entertaining,Holy Metal,2008,5,401536,4.5,0.5,4
+600,23310,Nepali On a,Indie,2015,7,777333,2.5,2,0.5
+601,41943,High Ambra Desktop publisher,Pop,2007,7,641084,4,2,4.5
+602,10563,Renault Would You Like To Be,Lounge,2016,3,846578,0.5,1,0.5
+603,30707,As Economist Unfortunate Sister,Jazz,2016,8,890304,1,1,4.5
+604,28142,Albania Complete From the Streets Tiny,Parody,2008,11,306037,4.5,3,4
+605,36617,Electrical Computer Hardware Present Relevant To my Best,Pop,2019,15,858245,5,1.5,2.5
+606,9130,Expensive,Rock,2004,6,217334,3.5,4,0.5
+607,15017,Gentle,Latino,2014,7,529298,2.5,4,5
+608,25844,The,Indie,2005,13,601080,4.5,4.5,5
+609,44213,Detailed,Latino,2004,7,826445,4,0.5,2
+610,23310,Arrange Panda Of Destiny Matteo,Country,2006,4,1629,5,3,4.5
+611,41943,Construction Next to,Boy Band,2006,15,94604,4.5,5,1.5
+612,15017,Try Cadillac,Pop,2003,3,674486,0.5,4.5,5
+613,25844,Tetum Country Loves,Deep House,2007,9,829685,4.5,2,5
+614,44213,Shaggy Lonely Behave Medical Sonographer,Compilation,2010,14,337129,4.5,1,1
+615,23310,Sunshine Eyes,Boy Band,2019,9,891729,0.5,1,2.5
+616,41943,Young Signorino Nepal,Metal,2009,3,303293,3.5,2.5,5
+617,44213,Computer Systems Turkmen Hook Good Chef,Pop,2002,5,492944,1.5,5,1
+618,23310,Bangladesh I'm Scarecharming Gentle,Rap,2000,15,35201,2,3,2
+619,41943,Counselor Asleep I'm Gonna,Rock,2009,4,163128,3,3,3.5
+620,10563,That's my,Indie,2005,12,581196,4,3.5,5
+621,30707,Towering,Metal,2017,7,907811,0.5,1.5,1.5
+622,28142,Is as I'm Da Real Matteo,Latino,2016,15,585585,1,1,1
+623,36617,Robbers Face Suzuki,Electro-Pop,2019,12,241853,5,0.5,3.5
+624,9130,Photographer Diagnostic,Rap,2007,5,836926,3.5,0.5,1.5
+625,15017,Believe Good Tiger Pull,Boy Band,2005,3,708604,0.5,4.5,4.5
+626,25844,Indonesia From the Streets,Black Metal,2018,7,69626,5,0.5,5
+627,44213,Bling-a-ding Discovery Home Wild And Connect,Trap,2016,12,452144,4,0.5,4.5
+628,23310,Human MINI Microwave FAW,Indie,2005,9,920493,5,1,5
+629,41943,So Long my Zeus Lovers Porcupine Arabic,Rap,2014,3,557064,3,2.5,4.5
+630,44213,Would You Like To Be,Progressive,2010,3,362708,3.5,4,0.5
+631,23310,Of Love Happy,Lounge,2005,8,194812,4.5,3,4
+632,41943,Direful Make It Son,Unplugged,2010,4,175093,4,1.5,1.5
+633,10563,Tiny Eleven,Dance,2005,8,576829,2,0.5,4.5
+634,30707,Skoda Icelandic Sing Connect Price,Indie,2015,9,298709,3,2,4.5
+635,28142,Lawyer Show Running Around Like a Headless Chicken Pure,Indie,2017,6,153239,4.5,3,4.5
+636,36617,Israel Future Unable Forget It,Pop-Rock,2016,10,828786,4.5,1,5
+637,9130,Muddy,Country,2008,9,958574,4,1.5,3
+638,15017,A Quiet Unfair,Indie,2002,13,692396,5,2,2.5
+639,25844,Chevrolet Miss Johnson Alpaca,Indie,2003,10,686273,3.5,1,0.5
+640,44213,Black Robbers Moves Discovery,Gospel,2006,6,426828,1,3.5,4.5
+641,23310,Come On,Brit-Pop,2017,4,245661,4,1.5,3.5
+642,41943,Pull,Black Metal,2005,11,185793,2,5,4.5
+643,15017,Raccolta Bis,Compilation,2010,6,606604,4.5,2,2
+644,25844,Of Love Wipe Make it,Compilation,2011,8,493261,0.5,2,2.5
+645,44213,The,Holy Metal,2003,10,408103,1,4.5,2
+646,23310,Magic,K-Pop,2006,11,319755,2.5,2,3.5
+647,41943,Mathematician Arrange,Pop-Rock,2010,13,640074,0.5,2,1.5
+648,44213,Big Tomorrow Large Daihatsu,Western,2009,3,659201,5,5,2
+649,23310,Young Signorino Aggressive,Electro-Pop,2017,9,970923,4.5,2,3
+650,41943,Intelligent Scream Uzbekistan Skoda,Parody,2018,11,729588,4.5,1.5,2
+651,10563,Behind The Real Neesan,J-Rock,2000,11,60995,3.5,1,1
+652,30707,Not my Cute,Indie,2016,5,658554,1.5,3,2
+653,28142,Arabic Goblin Under Excalibur,Holy Metal,2006,2,229458,3.5,5,2.5
+654,36617,Pakistan Brash,Alternative,2004,3,852529,5,4,1.5
+655,9130,I'm Vauxhall Embarrassed Gentle Volvo,Pop,2012,10,101926,0.5,3,3.5
+656,15017,Historical Overflow,Trap,2000,10,743916,4.5,0.5,3.5
+657,25844,Intelligent,Techno,2010,14,331901,2,3.5,4.5
+658,44213,Automatic Arabic Epidemiologist Acura,Punk,2006,6,495314,3.5,3,3.5
+659,23310,Tiny Just for So Sad or So Mad FAW Inside the,Brit-Pop,2001,9,652690,1,1.5,2.5
+660,41943,I'm Gonna,Electro-Pop,2014,4,852732,1.5,1,2.5
+661,44213,Zelda Power Of Darkness Arabic,Heavy Metal,2019,15,698238,1.5,2.5,5
+662,23310,Praying the Silence,Ambient,2009,5,389207,2.5,2,5
+663,41943,House Computer Systems Hook Miss Remarkable,Pop-Rock,2017,13,952274,4,2,4.5
+664,10563,Huge,Dance,2015,10,315919,3.5,1.5,3.5
+665,30707,Tapir Stand Star Trek Mental,Indie,2005,10,444052,4.5,3,3.5
+666,28142,Guttural,Rap,2009,11,87812,0.5,4,3.5
+667,36617,Riding The Matteo Of Fear,Electro-Pop,2013,13,456644,0.5,0.5,1
+668,9130,House RULEZ,Deep House,2016,7,323607,5,5,0.5
+669,15017,Sing Down My Lonely,Pop,2010,10,667427,0.5,0.5,5
+670,25844,Boys Four,Rap,2010,4,960011,5,2.5,3
+671,44213,Magic Balance Human,Western,2004,7,828520,0.5,1.5,3
+672,23310,Goblin Arise From Italy,Rap,2004,4,166781,3,3,4.5
+673,41943,Shame,Pop,2009,5,706815,4.5,0.5,3
+674,15017,Cereals Annoying,Retro,2009,3,882307,1.5,3,3.5
+675,25844,Conscious Medical,Retro,2018,4,492762,3,1,1
+676,44213,Towering Boring Educator School Psychologist Insurance,Indietronica,2010,14,468222,3.5,2,5
+677,23310,Police Officer Relax Califiornia,Latino,2001,12,624954,4,1,2
+678,41943,Robbers Loves My,Retro,2012,6,456780,1.5,0.5,4.5
+679,44213,Moustache Love Riding Road,Hard Rock,2004,10,470598,4,2.5,0.5
+680,23310,Does The Next to,Progressive,2016,15,977710,1.5,0.5,2
+681,41943,Weird Catch me Noodles,Pop,2010,12,388476,3.5,2.5,1.5
+682,10563,Glossy Psychedelic Deafening Dancing,Indie,2005,8,900925,1,1.5,2
+683,30707,Arabic Goblin Under Excalibur,Holy Metal,2006,15,25716,1.5,1,0.5
+684,28142,Hey Jason,Gospel,2007,9,950927,2,3,5
+685,36617,Poor That's my Glossy Escaped,Pop-Rock,2005,10,875608,0.5,4.5,4
+686,9130,Chevrolet Brawny,Holy Metal,2018,11,791754,2,3.5,0.5
+687,15017,Competitive Turkish Willing,Alternative,2011,8,962030,3.5,5,1.5
+688,25844,Event Planner Successfully Subaru For Us,Punk,2007,5,536371,5,2.5,5
+689,44213,Wine Story of Toys,Death Metal,2016,4,629706,2.5,0.5,2
+690,23310,Microwave Of,Indie,2015,7,897585,2.5,4,4
+691,41943,Cultural Green Magyar Hungarian Relax,Indie,2015,11,527193,4.5,5,3
+692,44213,Escape,Parody,2008,12,918496,1.5,0.5,5
+693,23310,Environmental,Jazz,2008,5,978925,4,3,4
+694,41943,Gatto Spanish Sadness Jinyu Living On A Prayer,Indietronica,2000,6,395936,3,4.5,1.5
+695,10563,Box Hungry,Indie,2019,13,603703,0.5,2,5
+696,30707,Huge,Blues,2002,7,39729,3.5,1.5,3.5
+697,28142,Mandarin Remarkable Gentle Architect Above,Pop,2019,4,528199,4.5,2.5,3
+698,36617,Topolino Ambra Important,Latino,2003,12,933390,0.5,5,2
+699,9130,Indonesian,Pop,2003,13,863051,4.5,3,0.5
+700,15017,Flippin Magical Wine Gnu Pharmacist,K-Pop,2000,4,469613,1.5,5,5
+701,25844,Difficult Vauxhall Down,Pop,2015,8,80334,5,3.5,2
+702,44213,Of Love Out Moves,Indietronica,2017,15,312338,5,0.5,1.5
+703,23310,Inside Your Yellow Computer Systems,Rock,2007,3,786411,1,4.5,3
+704,41943,OCamel  cuddly Kicked,Death Metal,2019,6,631580,4,3.5,2
+705,15017,Life Of A Queen,Retro,2017,7,572319,1.5,1.5,2.5
+706,25844,Escaped Available,Indie,2017,11,324385,3,5,2.5
+707,44213,Speed Brown Pasta Arabia,Hard Rock,2017,5,934262,0.5,5,4.5
+708,23310,Antique White Daihatsu Immediate,Pop,2014,2,900921,4.5,1,0.5
+709,41943,Bulgarian Eastern Practical Smart Driving the,Brit-Pop,2000,2,56143,5,2,4.5
+710,44213,Najdi Wand Weird Soprattutto,Indietronica,2005,8,277630,1.5,2,2
+711,23310,Of Photographer Healthy Algerian,Boy Band,2013,13,41200,2,3.5,0.5
+712,41943,Squirrels I'm,Country,2010,7,698199,1,3.5,4.5
+713,10563,Typical Uzbek,Punk,2010,13,473846,3.5,4.5,0.5
+714,30707,Veterinarian Jeep Maximus Messy Playing,J-Rock,2001,2,987167,2,2,3.5
+715,28142,Better have Morgan Primrose Complete Heart,Pop-Rock,2001,10,407823,1.5,0.5,4.5
+716,36617,Ewe Elegant As Magyar Hungarian State of Entertaining,Dance,2017,6,180254,2,3,3.5
+717,9130,Califiornia,Unplugged,2004,2,314863,1.5,0.5,4.5
+718,15017,Civil,Indie,2018,10,37188,2,2.5,4
+719,25844,Geese,Lounge,2014,7,825817,3.5,3,3
+720,44213,Lamacorno Findus Yellow Alpaca,Trap,2007,14,640953,2.5,2,4.5
+721,23310,House RULEZ,Deep House,2003,10,830650,1.5,1.5,2
+722,41943,Vampire Turkmen,Death Metal,2002,11,888632,3.5,3.5,2.5
+723,44213,Messy Reasonable,Pop,2012,12,345461,1.5,1.5,3
+724,23310,Matteo Remarkable Loves Chevrolet Dodge,Techno,2006,15,62381,3.5,2.5,0.5
+725,41943,Secret Steel And,Rap,2000,10,52370,0.5,3.5,4
+726,10563,Raccolta Bis,Compilation,2012,15,11724,1,1.5,5
+727,30707,Medical Forget It,Heavy Metal,2004,4,478353,2,5,4
+728,28142,Psychologist Hear Uzbek Interesting,Rap,2011,4,387886,1.5,3,5
+729,36617,Wipe,Indie,2011,13,386103,0.5,1,2
+730,9130,The Greater Shame,Rap,2004,6,635338,1,1.5,5
+731,15017,Pharmacist Develop Powerful Silence,Punk,2007,15,588924,3.5,3.5,1
+732,25844,Forgive Georgia My High Realistic,Pop-Rock,2019,14,475675,0.5,3.5,3.5
+733,44213,Similar The Queen,Indie,2012,11,790857,4,4.5,4.5
+734,23310,Goblin Arise From Italy,Rap,2016,15,409945,3.5,2,1
+735,41943,Calamity Jane New Face At Home My Life Tata Motors,Death Metal,2006,2,904124,1.5,2.5,2.5
+736,15017,Lover Barbie Of Rock,Rock,2002,2,937207,0.5,4.5,2
+737,25844,Isuzu Clam Principale Dancing Riding,Indie,2006,5,540178,2,1,4
+738,44213,Invention,Folk,2004,6,99361,4,3.5,4.5
+739,23310,Beautiful People,Pop,2006,10,100848,3.5,3,2
+740,41943,Lonely Practical To my Beloved,Lounge,2009,6,118950,2.5,1.5,4
+741,44213,Garden Eland Algeria No Human Friendly,K-Pop,2014,15,945790,0.5,0.5,5
+742,23310,Squirrel Toe,Indie,2000,15,589376,4.5,1.5,2
+743,41943,Scarce Legal Arrange Klingon Come On,Pop,2005,3,512198,2.5,0.5,5
+744,10563,Pakistan Social Worker Architect,Country,2019,7,646951,4.5,3,2.5
+745,30707,Sadness Spoon Unfortunate Permit,Black Metal,2003,3,435941,2.5,4,0.5
+746,28142,Tata Motors Visible Entire Incredible,Trap,2001,2,402981,5,3.5,1.5
+747,36617,Pharmacist Final Form,Gospel,2011,4,608459,1,1,3.5
+748,9130,Latter Nervous Muddy Arabic,Indie,2002,11,378358,4,3.5,2
+749,15017,For my Impossible Of Distance Of Lover,Trap,2011,11,624399,0.5,2,1.5
+750,25844,Balance,Pop,2013,6,274489,0.5,1.5,3
+751,44213,Belligerent Below the,Dance,2016,8,363793,1.5,4,5
+752,23310,Malay Bertie Said,Dance,2016,4,957917,4,3.5,4
+753,41943,Chevrolet Come,Dance,2000,10,505908,1.5,1,4
+754,44213,Remarkable,Indie,2001,2,769715,2,5,3
+755,23310,Human MINI Microwave FAW,Indie,2016,6,89032,1,5,3
+756,41943,Girl Sudden,Pop,2016,2,94271,4,3,1.5
+757,10563,Cadillac Ugly,Rap,2014,2,224642,1,4,1.5
+758,30707,Present Of Rock Way Suzuki Incredible,Indie,2015,14,971826,0.5,1,1.5
+759,28142,So Sad or So Mad Existing Swedish Go!,Alternative,2019,13,272896,3.5,4.5,3.5
+760,36617,Words Detailed,Punk,2008,7,378878,3.5,3.5,1.5
+761,9130,Don't You Bertie Said Sudden Of Love Towering,Indietronica,2019,15,457471,2,2,1
+762,15017,Poland,Rock,2012,13,124104,0.5,2,3.5
+763,25844,Impressive I'll Realistic,Indie,2019,3,845964,5,0.5,1.5
+764,44213,Try Cadillac,Pop,2005,4,403396,3,1,4
+765,23310,Of Lover,Rap,2000,8,324876,1.5,2,5
+766,41943,Severe American Boy,Dance,2001,5,417079,1.5,1,4.5
+767,15017,Saudi Catch Me From Italy Party,Unplugged,2014,8,772095,2.5,2,1
+768,25844,Cadillac,Progressive,2018,2,402484,4,2.5,1.5
+769,44213,Saudi Catch Me From Italy Party,Unplugged,2001,7,221636,2,4,2.5
+770,23310,Zebra General Motors Slovak Reforge,Jazz,2000,9,840127,4.5,0.5,1
+771,41943,Lover Barbie Of Rock,Rock,2016,12,122370,2.5,1.5,4.5
+772,44213,Believe Vauxhall Substantial China Beautiful People,Holy Metal,2012,2,395118,4.5,1,4.5
+773,23310,The Streets,Alternative,2002,12,942940,2,2,2
+774,41943,Aboriginal Daihatsu,Dance,2001,4,505074,5,4.5,3
+775,10563,Mister,Rap,2005,5,899921,5,3,0.5
+776,30707,Ferrari Next To Onesan,Techno,2006,13,659589,3,5,1.5
+777,28142,Miss Johnson Useful Adjoining I'm,K-Pop,2018,15,141008,2,2,2
+778,36617,Gnu In the Sky Entire To my Best,Death Metal,2018,7,802421,1,1.5,4.5
+779,9130,Star Trek,Boy Band,2015,7,614384,4,1,5
+780,15017,Candy Elisa My Love,Dance,2003,14,572064,3,5,2.5
+781,25844,Fear Lover At Home Boy,Jazz,2014,6,562490,2.5,5,5
+782,44213,Are Don't Forget Me,Heavy Metal,2019,7,74318,5,2.5,3
+783,23310,Italian Humans Ultra-Maximus Maria,Progressive,2005,8,215711,3.5,4,4
+784,41943,Candy Elisa My Love,Dance,2017,10,893269,2,3,0.5
+785,44213,Large They Fish,Hard Rock,2007,15,312372,3.5,3.5,4
+786,23310,Follow Better Audi,Indie,2010,11,994801,2,5,4.5
+787,41943,Show,Rock,2014,6,359337,4.5,1,4
+788,10563,Isuzu Administrative Boring Sings,Death Metal,2014,10,616338,2.5,3.5,2.5
+789,30707,Verdura in Da Jeans,Parody,2009,9,453202,1,3.5,1.5
+790,28142,Form Kenworth,Folk,2012,13,379262,2,5,3.5
+791,36617,Flippin' Pony Weird Find Cute Hook,Rock,2005,3,588808,4.5,2.5,4
+792,9130,Indonesia Mix Moccasin Sing Dentist,Indie,2005,12,85917,2,1.5,4
+793,15017,Distance,Punk,2009,6,998651,4.5,5,5
+794,25844,Urdu Of Love History Fierce,J-Rock,2002,4,20387,3,3,5
+795,44213,United Hunted,Pop,2017,14,154592,2.5,2.5,3
+796,23310,That's my Loves Dominator Patrol Officer,Retro,2016,13,647361,1.5,1,5
+797,41943,Chef Chichen Lexus,Latino,2019,2,145188,3.5,2,1
+798,15017,I'm On Instagram Puma,Pop-Rock,2015,5,925746,2,4,3.5
+799,25844,Israel Fear China,Pop-Rock,2009,13,614866,1.5,1.5,2.5
+800,44213,Sa’idi The Direful The Queen Time,Hard Rock,2010,12,184676,5,4.5,1
+801,23310,Of Big Messy DJ Mix,Black Metal,2008,14,589674,1.5,4,4.5
+802,41943,Relax Estar Saudi,Country,2010,5,308999,1.5,3.5,4.5
+803,44213,Sheet,Folk,2008,5,593798,0.5,2,2
+804,23310,Living On A Prayer,Pop,2000,8,49041,5,5,1.5
+805,41943,Than Matteo The Long And Winding Road Soprattutto,Holy Metal,2017,11,780852,1.5,2,0.5
+806,10563,Bring me Sunshine kneel That Doggies Miss Johnson,Black Metal,2006,12,178175,3.5,4,1
+807,30707,Boring,Pop,2012,9,479599,4,1,3.5
+808,28142,Zinc,Latino,2005,8,273834,1,0.5,2.5
+809,36617,Entire Doggies,Pop,2001,14,890417,3.5,3.5,5
+810,9130,To my Beloved Bless Bus Spread Sister,Rap,2009,9,277441,3,4,0.5
+811,15017,Lucky Sheep Topolino Pleasant Forget It,Boy Band,2006,15,949931,3.5,1,0.5
+812,25844,Joy About Like Rock 'n' Roll,Indie,2008,5,691955,3.5,3.5,2.5
+813,44213,Assistant Detailed,Indie,2006,10,956623,4,4,3
+814,23310,Human MINI Microwave FAW,Indie,2018,10,535760,3.5,4,1
+815,41943,Strict Successful,Death Metal,2005,15,569546,2.5,1,3.5
+816,44213,Discovery,Rap,2002,5,54532,2.5,3,2.5
+817,23310,Powerful Sorry Electrician,Gospel,2001,5,918946,0.5,2,1.5
+818,41943,About a Lonely Fishrman Goblin,Brit-Pop,2013,10,439812,1.5,4,5
+819,10563,Pakistan Ampelmann Scarce Escuchame,Indie,2002,8,751968,3,1,5
+820,30707,Behind The Real Neesan,J-Rock,2009,10,503583,5,4.5,2.5
+821,28142,Lover Adventure of the Support,Progressive,2000,11,919643,2,3.5,4
+822,36617,Bongo Bongo Cadillac,Blues,2007,9,23997,3.5,1,2
+823,9130,Amore Dolor,Latino,2006,14,668002,3.5,2.5,2
+824,15017,China,Western,2010,6,189496,3,0.5,5
+825,25844,Crying for the Pharmacist,Retro,2007,9,51178,3,5,5
+826,44213,Stick,Live,2004,15,811159,1,2.5,5
+827,23310,Maximus Good Historical,Gospel,2017,13,747906,1.5,3,5
+828,41943,Waterbuck Cuddly,Pop,2011,2,374433,1,5,3.5
+829,15017,Moccasin Parakeet Complete Helpful Legalization,Latino,2018,4,821767,3,4,2.5
+830,25844,Goblin Arise From Italy,Rap,2000,11,576101,4.5,0.5,2
+831,44213,Rhinoceros,Progressive,2004,4,836853,2.5,5,1.5
+832,23310,Tree,Alternative,2001,9,47091,3.5,3,3
+833,41943,Jewel Bring me Sunshine Singapore Honda Technical,Pop-Rock,2015,13,895811,1.5,2.5,1.5
+834,44213,Good Believe Adjoining Poland,Brit-Pop,2000,9,830157,3,1,3
+835,23310,In Your Eyes,Black Metal,2007,3,700810,5,1,3.5
+836,41943,Morgan Of Love Majestic Human Sing,Rap,2015,10,989624,2.5,5,3
+837,10563,Sound Realistic Chemist Dark Turquoise,Latino,2007,2,240028,4,2.5,1
+838,30707,Try Cadillac,Pop,2017,5,183366,1,3,2
+839,28142,Gatto In the Sky Running In the Sky Purple,Retro,2009,4,115965,4.5,4.5,1.5
+840,36617,History Boring In the Sky,Live,2011,5,205134,1.5,2,1.5
+841,9130,Zelda Power Of Darkness Arabic,Heavy Metal,2018,13,76747,2.5,3,0.5
+842,15017,Summer,Hard Rock,2010,3,370096,2.5,3,1
+843,25844,Arabic,Indietronica,2002,14,793974,2.5,3.5,2.5
+844,44213,Present Assistant So Long my Black Blue,Latino,2013,6,345590,3.5,5,3.5
+845,23310,Search Relax Fiat Killer Zebu,Rock,2008,5,674352,2,1,3.5
+846,41943,Gentle Competitive,Dance,2011,15,564751,1,1.5,3.5
+847,44213,Successful Kicking your Unfair,Unplugged,2019,15,365075,1,5,2
+848,23310,Available Balance Bless Of Death Marketing,Western,2009,3,423228,5,5,1
+849,41943,Cute India Familiar Tree Reforge,Folk,2000,5,962267,3.5,2.5,0.5
+850,10563,Vauxhall Forgive Confident Sheet Country,Deep House,2011,6,949116,1.5,1,2.5
+851,30707,Entertaining Melayu,Pop,2013,6,75560,2,3.5,1.5
+852,28142,Messy Of Love,Indie,2004,14,299921,4,2.5,0.5
+853,36617,Aboriginal As Of Rock Is My Religion,Heavy Metal,2011,15,804812,5,2.5,4.5
+854,9130,Stars Rat Impressive,Compilation,2005,5,188218,1.5,4,4
+855,15017,Different Adjoining Bless Morocco Additional,Pop-Rock,2013,2,840791,2,4,5
+856,25844,Human MINI Microwave FAW,Indie,2007,6,840734,2.5,3.5,1.5
+857,44213,Oryx History Dreamed Behind,Holy Metal,2012,13,873956,1.5,5,2
+858,23310,Try Cadillac,Pop,2006,4,750878,4.5,0.5,1
+859,41943,Human MINI Microwave FAW,Indie,2015,13,744568,5,1,5
+860,15017,Lawyer,Hard Rock,2019,15,100635,2.5,3.5,3.5
+861,25844,The Ballad Of Super Bella,Death Metal,2002,2,678268,1.5,3.5,4.5
+862,44213,Electronic Consistent Significant Fireman Matter,Alternative,2016,9,266634,4,2.5,1
+863,23310,Human MINI Microwave FAW,Indie,2002,8,440611,4,5,5
+864,41943,The Story of Relax Electrical Don't You,Pop,2015,15,669311,1,4.5,3.5
+865,44213,Iceland My Life Zeus Sings,Rap,2003,10,492249,3,4.5,2
+866,23310,House RULEZ,Deep House,2005,14,488392,4,0.5,3.5
+867,41943,That's my Cool I think,Compilation,2008,12,945564,2.5,3,4
+868,10563,Upset Califiornia Too Much Relax,Jazz,2001,2,12383,3,4.5,2
+869,30707,Move Like a Legs Bird Wonderful Dolls,Gospel,2017,5,143687,2,3,4
+870,28142,Every Richer Mister,Latino,2000,13,452980,0.5,2,3.5
+871,36617,Try Cadillac,Pop,2002,11,289598,2.5,3.5,1
+872,9130,Gentle Magical Complete Coach,Indie,2010,3,277703,3,3.5,2.5
+873,15017,Helpful,Western,2000,11,737349,2.5,3,1.5
+874,25844,Social Worker Realistic Happy,Pop,2005,11,249608,3,1,4.5
+875,44213,Global Arms,Alternative,2001,5,950801,2.5,0.5,3
+876,23310,Doggies Assistant Clam Competitive,Techno,2017,15,487746,2,3,1
+877,41943,Miss Johnson Expelli Armus Jewel Story of,Compilation,2010,13,724976,2.5,1.5,4
+878,44213,Lover Barbie Of Rock,Rock,2007,9,465116,4,1.5,0.5
+879,23310,My East Indian Boy,Punk,2015,4,233657,1,2.5,5
+880,41943,Elk Colouring Orange,Alternative,2016,2,222834,2.5,5,4
+881,10563,Price Eastern Practical Yesterday Escaped,Folk,2007,3,196378,4.5,3.5,1.5
+882,30707,Adjoining,Electro-Pop,2010,5,304031,4,4,3.5
+883,28142,Editor Ametista To my Beloved Reasonable,Gospel,2007,13,657000,2.5,5,0.5
+884,36617,Unfair Powerful Complete Rock China,Boy Band,2001,11,176284,3,4,3.5
+885,9130,Steer Capybara Mental,K-Pop,2006,13,370080,3.5,2,1
+886,15017,Pencil Of Abuse Eleven,Metal,2018,15,67167,4,4,0.5
+887,25844,Afraid,Dance,2004,13,833821,0.5,2.5,5
+888,44213,Subaru Terrible Polish Form Iceland,Indietronica,2019,6,184148,1,3.5,1
+889,23310,Beer Vanuatu,Metal,2011,9,2389,1.5,2.5,3.5
+890,41943,Alleged Pleasant Infiniti China,Alternative,2009,14,661796,4,3.5,2.5
+891,15017,I'm On Instagram Puma,Pop-Rock,2006,3,32956,5,4.5,4.5
+892,25844,Editor Plumber,Trap,2008,12,391805,2,5,3.5
+893,44213,About a Lonely Fishrman Goblin,Brit-Pop,2017,12,593334,4,2,4.5
+894,23310,Secretive Hunter Ewe,Rap,2018,12,432023,3,2,2.5
+895,41943,North Levantine Rupert,Brit-Pop,2002,2,271099,2.5,2.5,4
+896,44213,Elk Of Destiny Lovers Coati I Gotta Feeling,Rap,2015,4,302551,3.5,4.5,2.5
+897,23310,Arrange Kicking your Messy Califiornia,Rock,2019,11,803250,0.5,0.5,1.5
+898,41943,Dancer Full of,Gospel,2006,7,609998,5,2,3.5
+899,10563,Purple Big Dreamed Tiger,Indietronica,2005,14,491692,3.5,0.5,4
+900,30707,Strong Rare,Lounge,2014,8,438901,1.5,1.5,2.5
+901,28142,Down into the Mercedes Invention Yellow Lovers,Indietronica,2004,2,851716,1.5,4,3
+902,36617,Technical Yesterday Critical Wild And,Jazz,2016,12,696965,4.5,5,2
+903,9130,Print China Yellow,Progressive,2016,3,335009,0.5,1,2
+904,15017,Small Chip,Alternative,2004,12,12815,2,3.5,2
+905,25844,Blue Loves,Jazz,2013,7,893087,3,3.5,3
+906,44213,Jinyu Heart Adjoining,Blues,2012,14,875723,3,3,4
+907,23310,Beyond Terrible Horses Candy,Hard Rock,2006,9,175422,1.5,3.5,4.5
+908,41943,Spain,Pop,2001,7,483452,4.5,5,3.5
+909,44213,Legal Zeus Magenta,Folk,2012,13,478565,1,2,4.5
+910,23310,Nervous In the Sky Dreamed Massive,Techno,2009,4,490875,4.5,5,4
+911,41943,Color Falling in Love with Gentle More Spider,Death Metal,2016,10,723055,1.5,4,1.5
+912,10563,Pencil Nepali,Indie,2015,13,506600,2,4.5,3.5
+913,30707,Persian And Overflow Girls Throw Me,Deep House,2018,10,21669,5,3,0.5
+914,28142,Human MINI Microwave FAW,Indie,2011,3,269986,4.5,3,1.5
+915,36617,Saudi DJ Mix Distance Bangladesh Fitness Trainer,Gospel,2001,13,613126,1,0.5,0.5
+916,9130,known Urdu Reporter My,K-Pop,2003,13,112801,3,4,2.5
+917,15017,Moustache Love Riding Road,Hard Rock,2012,3,5501,2.5,3.5,0.5
+918,25844,Marigold The Manigold Better have,Western,2008,8,812687,4,0.5,5
+919,44213,Chevrolet Bertie-Face,Unplugged,2003,10,676514,0.5,4.5,0.5
+920,23310,Lover Barbie Of Rock,Rock,2013,13,195186,4.5,1,1
+921,41943,I'm On Instagram Puma,Pop-Rock,2010,2,165714,3,2,2
+922,15017,Intelligent,Jazz,2011,5,71670,2,3,4.5
+923,25844,Richer Urdu Hebrew,Black Metal,2017,3,18770,3.5,2.5,3.5
+924,44213,Terrible MINI Needy,Compilation,2012,4,496588,4,0.5,4
+925,23310,Dramatic,Pop,2004,9,127245,3.5,3.5,2.5
+926,41943,Dramatic Significant Of Love Lovers Print,Brit-Pop,2013,5,612261,1,1.5,4.5
+927,44213,I'm Unfair Of Love Italian,Western,2005,4,320454,1.5,0.5,0.5
+928,23310,Bongo Bongo Cadillac,Blues,2007,11,542357,1,3,1.5
+929,41943,Zelda Power Of Darkness Arabic,Heavy Metal,2018,15,646722,1.5,5,2
+930,10563,Talented Camel Engineer,Pop-Rock,2007,9,561030,4.5,2,2.5
+931,30707,Sudden First to Connect Not my,Pop-Rock,2019,2,889512,5,1.5,3
+932,28142,Similar,Rock,2000,15,694310,4,4.5,0.5
+933,36617,Cute Desperate Infiniti Form,Gospel,2015,13,493236,1,0.5,4
+934,9130,Budget analyst Chrysler Jewel Medalion,Latino,2011,13,956150,0.5,4.5,1
+935,15017,Tomorrow Analyst Adventure of the Automatic Melayu,Rap,2008,7,778804,5,2,0.5
+936,25844,Lamb Joy Pencil Pig Latin Guitar,Compilation,2009,14,189831,3.5,4,2.5
+937,44213,Ride Forgive Medical Sonographer,Compilation,2014,6,960918,1,1,1.5
+938,23310,Robbers Don't Forget the,Boy Band,2014,15,474338,5,3.5,3.5
+939,41943,Georgian Bosnian Excalibur Seat Lexus,Rap,2019,3,103386,4.5,4,4
+940,44213,Purple Too Much The Story of,Pop,2015,4,220024,4.5,3.5,4.5
+941,23310,China Intelligent,Indie,2000,3,861919,0.5,3,4.5
+942,41943,Suzuki,K-Pop,2005,5,488876,2,0.5,4
+943,10563,Icelandic Loves Catch me Familiar Gan,Pop,2015,6,419155,1.5,2,2
+944,30707,Play Go! Min Nan Administrator Adjoining,Parody,2006,14,838239,3.5,3.5,5
+945,28142,Entertaining Electronic Chinchilla Believe,Blues,2013,9,404936,0.5,4,2
+946,36617,Driving the At Sa’idi Alpaca,J-Rock,2017,14,52839,4.5,4,1
+947,9130,Please Georgian Sheet Drafter Weird,Latino,2009,5,148908,3.5,0.5,4.5
+948,15017,Star Trek Aboriginal Island,Compilation,2016,12,684527,4.5,1,2
+949,25844,Fiat Reporter Blue,Country,2012,14,202454,2.5,1,1.5
+950,44213,Careful Public Relations Specialist Animals Foreign,Gospel,2004,5,16283,1,1,2
+951,23310,Behind The Real Neesan,J-Rock,2008,3,884537,1.5,4,1
+952,41943,Need Mandarin Chameleon That's my Boring,Deep House,2003,3,181211,3.5,3.5,3.5
+953,15017,Like Spaghetti Belief Form,Brit-Pop,2013,13,299728,0.5,4.5,3
+954,25844,Hebrew Albanian Zeus Odd,Pop,2015,11,551655,1.5,2,5
+955,44213,Spanish Gnu Poland Pahari Week,Alternative,2012,7,276627,4,2,2
+956,23310,Willing Accurate Lovers Of Thunder Barbie,Rap,2016,8,549351,4,1,4
+957,41943,As Prince Of Music Wild And Wand,Rock,2019,5,23312,3.5,4.5,2.5
+958,44213,Bless Insurance Microwave,Gospel,2000,2,654811,0.5,2,1
+959,23310,Italian Cashier Forgive Of Destiny Legs,Rap,2011,5,280263,1,4,3
+960,41943,House RULEZ,Deep House,2011,11,424432,3,4,5
+961,10563,At Home In the Sky Fluffy,Hard Rock,2011,8,794620,2,1.5,5
+962,30707,Raccolta Bis,Compilation,2017,10,83098,0.5,5,1.5
+963,28142,Follow Photographer Expensive Significant,Indie,2010,8,614523,5,0.5,5
+964,36617,Psychologist Shy,Hard Rock,2019,3,567673,5,3,2
+965,9130,Steel Vanuatu China,Heavy Metal,2003,12,323155,2.5,4,1
+966,15017,Suspicious Like Hook Gentle Audi,J-Rock,2015,6,844942,2.5,3.5,3
+967,25844,Purple Big Dreamed Tiger,Indietronica,2006,6,346838,2,1.5,3.5
+968,44213,Practical Son,Gospel,2013,10,113911,4,3,3
+969,23310,Stealing your Loves Show,Dance,2009,14,103368,4,5,1
+970,41943,Yellow Muddy,Pop,2017,9,736202,1,4.5,3.5
+971,44213,Practical Spread Magyar Hungarian Overflow,Rap,2019,5,69286,1,1.5,0.5
+972,23310,Albanian Arm Hunted,Metal,2008,6,342399,1.5,5,3
+973,41943,Electrical Immediate Steel,Dance,2007,2,536201,4,3,3
+974,10563,Dutch Orange Needy Bulgarian Embarrassed,Live,2019,13,959302,1.5,2.5,4.5
+975,30707,Allegretto In the Night DJ Mix Creator Heat,Indie,2002,7,978656,2.5,1.5,3.5
+976,28142,Gonna Better Off,Rock,2018,5,790751,3.5,5,2.5
+977,36617,Lamacorno Findus Yellow Alpaca,Trap,2007,8,356909,4.5,4,3.5
+978,9130,Hungry Sky Jordan Mandarin,Rock,2011,2,361799,0.5,2.5,3
+979,15017,Don't Touch My Nove Millimetri,Western,2001,9,202859,2,1,1.5
+980,25844,Purple Big Dreamed Tiger,Indietronica,2006,5,300207,3.5,0.5,2.5
+981,44213,Alan,Metal,2010,8,447787,4.5,4,0.5
+982,23310,Squirrel Malay Ermine Turkmen Poor,Latino,2018,14,249602,2,3,4
+983,41943,Pencil Lovers,Electro-Pop,2013,7,130773,0.5,0.5,5
+984,15017,In the Sky,Progressive,2002,12,11938,1,3.5,1.5
+985,25844,Environmental Bertie Said Isuzu,Rap,2007,8,625683,0.5,2,2.5
+986,44213,Insurance Primrose Bahasa Mongolia,Indie,2011,15,911084,2.5,2,1
+987,23310,Sa’idi Ambra,Metal,2005,3,84572,5,3.5,1
+988,41943,Zelda Power Of Darkness Arabic,Heavy Metal,2001,15,514393,3.5,0.5,2.5
+989,44213,Impossible The Long And Winding Road Slovakia Federal,Jazz,2010,8,759441,1.5,2,0.5
+990,23310,Unlikely,Pop-Rock,2017,10,632261,4.5,4.5,2.5
+991,41943,Psychological Arabic,Pop,2007,6,554212,1,0.5,1.5
+992,10563,Tiny Behind,Dance,2016,4,481621,0.5,0.5,4
+993,30707,Geese,Punk,2014,4,241142,5,1.5,4.5
+994,28142,Sexual Huge Believe Country Cultural,Dance,2010,15,652843,5,3.5,4
+995,36617,Try Cadillac,Pop,2006,9,10494,2.5,1.5,4
+996,9130,Lover Detailed,Pop,2005,9,980886,1,5,2
+997,15017,Arabia Bulgaria Intelligent Panther Tiny,Pop,2019,8,886043,4,3,4
+998,25844,I Gotta Feeling Brawny,Pop,2002,4,735898,1.5,3.5,1.5
+999,44213,Riding The Matteo Of Fear,Electro-Pop,2004,14,851447,3.5,1,4
