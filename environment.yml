@@ -4,13 +4,12 @@ channels:
 dependencies:
   - numpy
   - python
-  - pip:
-    - matplotlib=3.2.2
-    - pandas=1.0.4
-    - bqplot=0.12.30
-    - geopandas
-    - ipywidgets
-    - contextily
-    - openpyxl
-    - seaborn
-    - IPython
+  - matplotlib=3.2.2
+  - pandas=1.0.4
+  - bqplot=0.12.30
+  - geopandas
+  - ipywidgets
+  - contextily
+  - openpyxl
+  - seaborn
+  - IPython
