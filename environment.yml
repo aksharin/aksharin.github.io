@@ -12,3 +12,5 @@ dependencies:
     - ipywidgets
     - contextily
     - openpyxl
+    - seaborn
+    - IPython
